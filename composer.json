@@ -1,5 +1,5 @@
 {
-    "name": "coderjerk/bird-elephant",
+    "name": "zaruto/bird-elephant",
     "type": "library",
     "description": "A simple library to request data from the Twitter APIv2 endpoints",
     "license": "MIT",
